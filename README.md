@@ -2,7 +2,7 @@
 
 This is a project to create an Ecommerce website for a small pottery studio
 
-Live Page [Here](https://the-slightly-curious-studio.vercel.app/) Work In Progress...
+Work In Progress...
 
 ## Figma Design
 
