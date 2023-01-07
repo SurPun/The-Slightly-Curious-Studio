@@ -1,0 +1,7 @@
+type Merch @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  merchName: String
+  merchPrice: Int
+  merchQuantity: Int
+}
+ 

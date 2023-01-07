@@ -1,3 +1,9 @@
+// AWS
+import { Amplify } from "aws-amplify";
+import awsconfig from "./../../aws-exports.js";
+
+Amplify.configure(awsconfig);
+
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
