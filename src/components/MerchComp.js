@@ -1,5 +1,3 @@
-import React from "react";
-
 // AWS
 import { DataStore } from "@aws-amplify/datastore";
 import { Merch } from "../../models";

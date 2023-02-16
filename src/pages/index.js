@@ -1,5 +1,6 @@
 // Import Components
-import Merch from "../components/MerchComp";
+import NavBar from "../components/NavBar";
+import MerchComp from "../components/MerchComp";
 
 // --------------------------------------------------------------
 export default function Home() {
@@ -7,8 +8,10 @@ export default function Home() {
     <>
       <h1>The Slightly Curious</h1>
 
-      {/* Merch Component */}
-      <Merch />
+      <NavBar />
+
+      {/* Merch Comp */}
+      <MerchComp />
     </>
   );
 }
