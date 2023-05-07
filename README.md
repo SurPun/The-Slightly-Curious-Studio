@@ -1,8 +1,6 @@
 # The Slightly Curious Studio
 
-This is a project to create an Ecommerce website for a small pottery studio
-
-Work In Progress...
+<b>Work In Progress...</b>
 
 ## Figma Design
 
